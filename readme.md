@@ -29,6 +29,6 @@
 
 
 
-Пишем код :)
 
-![Пишем код :)]([2GU.gif](https://github.com/SergeyYashagin/Test_worck_YashaginS/blob/master/obj/2GU.gif)
+
+![Пишем код :)](https://github.com/SergeyYashagin/Test_worck_YashaginS/blob/master/obj/2GU.gif))
