@@ -1,4 +1,4 @@
-﻿string[] mass1 = new string[3] {"hello", "2", ";-)"};
+﻿string[] mass1 = new string[3] { "hello", "2", ";-)" };
 string[] mass2 = new string[mass1.Length];
 int count = 0;
 void CheckMass(string[] mass1, string[] mass2)
@@ -15,7 +15,11 @@ void CheckMass(string[] mass1, string[] mass2)
 
 CheckMass(mass1, mass2);
 
-for (int i = 0; i < mass2.Length; i++)
+void PrintMass(string[] mass)
 {
-    Console.Write($"{mass2[i]} ");
+    for (int i = 0; i < mass2.Length; i++)
+    {
+        Console.Write($"{mass2[i]} ");
+    }
 }
+PrintMass(mass2);
